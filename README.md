@@ -59,7 +59,7 @@
 \
 ⚙️ Fully remote planning, front-end CRUD, RegEx search, timers based on UseState and UseEffect \
 
-#### Zelda RPG - [Full-Stack Repo](https://github.com/sammymarks/Zelda-RPG)
+#### Zelda RPG - [Front-End Repo](https://github.com/sammymarks/Zelda-RPG)
 
 ℹ️ Turn-based RPG inspired by retro point-and-click games and the Legend of Zelda franchise. Features items, enemies, and a role-reversal story!\
 \
