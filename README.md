@@ -7,7 +7,7 @@
   <a href="https://github.com/sammymarks" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
   </a> &nbsp; 
-  <a href="https://github.com/sammymarks" rel="nofollow noreferrer">
+  <a href="mailto:sammy.marks@gmail.com" rel="nofollow noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="15" height="15"alt="gmail"> Contact Me
   </a>
 </p>
