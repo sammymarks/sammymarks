@@ -42,34 +42,75 @@
 
 #### Safe Streets Survey - [Frontend Repo](https://github.com/sammymarks/SafeStreetsSurvey-Frontend) | [Backend Repo](https://github.com/sammymarks/SafeStreetsSurvey-Backend) | [Deployed](https://safe-streets-survey.netlify.app/)
 
-<img align="right" width="150" alt="SafeStreetSurveyPreview" src="https://github.com/sammymarks/sammymarks/assets/144173900/b0c46a8d-ab16-427f-8784-088f5b70b803">
 
-ℹ️ Safe Streets Survey is an open-source, Mobile-friendly browser application to help local organizations crowdsource community feedback on local infrastructure issues. Built in partnership with the Chicago 40th Ward, it allows users to securely authenticate, browse projects, and submit tickets with geolocation, image uploads, dropdown selections, and text entry. Project admins can view and download their ticket data. \
-\
-🖥️ HTML/CSS, Javascript, React (Vite), Bootstrap, Mongoose/Mongo, Express.js, Axios, Google Maps API, OAuth/Auth0, Dayjs, Netlify, Heroku\
-\
-⚙️ Encrypted user authentication, admin privileges, file compression, file storage (64 bit encoding), geolocation via third-party API, multi-release plan, front-end CRUD, mobile-first design \
-
-___
+<table>
+  <tbody>
+    <tr>
+      <td>
+        ℹ️ Safe Streets Survey is an open-source, Mobile-friendly browser application to help local organizations crowdsource community feedback on local infrastructure issues. Built in partnership with the Chicago 40th Ward, it allows users to securely authenticate, browse projects, and submit tickets with geolocation, image uploads, dropdown selections, and text entry. Project admins can view and download their ticket data.<br/> <br/>
+        🖥️ HTML/CSS, Javascript, React (Vite), Bootstrap, Mongoose/Mongo, Express.js, Axios, Google Maps API, OAuth/Auth0, Dayjs, Netlify, Heroku<br/> <br/>
+        ⚙️ Encrypted user authentication, admin privileges, file compression, file storage (64 bit encoding), geolocation via third-party API, multi-release plan, front-end CRUD, mobile-first design
+      </td>
+      <td align="center">
+        <img alt="SafeStreetSurveyPreview" src="https://github.com/sammymarks/sammymarks/assets/144173900/b0c46a8d-ab16-427f-8784-088f5b70b803">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 #### Family Bike Build Network - [Full-Stack Repo](https://github.com/sammymarks/Family-Bike-Build-Network)
-ℹ️ Family Bike Build Network is a social site for families who want to schlep their kids on bikes get inspiration for builds and parts to make the journey on any budget. It will feature community builds and user-submitted bikes and parts. \
-\
-🖥️ HTML/CSS, Javascript, React (Vite), Mongoose/Mongo, Express.js, Axios \
-\
-⚙️ Front-end CRUD, User Login, part and build inventories, social "likes", build configuration shopping cart \
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        ℹ️ Family Bike Build Network is a social site for families who want to schlep their kids on bikes get inspiration for builds and parts to make the journey on any budget. It will feature community builds and user-submitted bikes and parts.<br/> <br/>
+        🖥️ HTML/CSS, Javascript, React (Vite), Mongoose/Mongo, Express.js, Axios<br/> <br/>
+        ⚙️ Front-end CRUD, User Login, part and build inventories, social "likes", build configuration shopping cart
+      </td>
+      <td align="center">
+       <img alt="FamilyBikeBuildNetwork" src="https://github.com/sammymarks/sammymarks/assets/144173900/37df8ea8-5c70-4140-8d65-7afc0b4cae11">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 #### Masterpiece Marketplace - [Full-Stack Repo](https://github.com/sammymarks/MasterpieceMarketplace)
-ℹ️ Group hackathon project with a team of three. Masterpiece marketplace is a site to auction and buy artwork without a middle-man. Where eBay meets Etsy. Features Profile setup, artwork posting, auction creation, and auction participation.\
-\
-🖥️ HTML/CSS, Javascript, React (Vite), Mongo/Mongoose, Express, Node.js, Express.js Axios \
-\
-⚙️ Fully remote planning, front-end CRUD, RegEx search, timers based on UseState and UseEffect \
+<table>
+  <tbody>
+    <tr>
+      <td>
+        ℹ️ Group hackathon project with a team of three. Masterpiece marketplace is a site to auction and buy artwork without a middle-man. Where eBay meets Etsy. Features Profile setup, artwork posting, auction creation, and auction participation.<br/> <br/>
+        🖥️ HTML/CSS, Javascript, React (Vite), Mongo/Mongoose, Express, Node.js, Express.js Axios<br/> <br/>
+        ⚙️ Fully remote planning, front-end CRUD, RegEx search, timers based on UseState and UseEffect
+      </td>
+      <td align="center">
+      <img alt="MasterpieceMarketplace" src="https://github.com/sammymarks/sammymarks/assets/144173900/595a1c7c-419b-43c5-8904-688794254d6f">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-#### Zelda RPG - [Front-End Repo](https://github.com/sammymarks/Zelda-RPG)
 
-ℹ️ Turn-based RPG inspired by retro point-and-click games and the Legend of Zelda franchise. Features items, enemies, and a role-reversal story!\
-\
-🖥️ HTML/CSS, JavaScript , Axios \
-\
-⚙️ Extensive game logic, third-party API calls, event listeners, nested CSS Grid, modals \
+
+___
+#### Zelda RPG - [Frontend Repo](https://github.com/sammymarks/Zelda-RPG)
+<table>
+  <tbody>
+    <tr>
+      <td>
+        ℹ️ Turn-based RPG inspired by retro point-and-click games and the Legend of Zelda franchise. Features items, enemies, and a role-reversal story!<br/> <br/>
+        🖥️ HTML/CSS, JavaScript , Axios<br/> <br/>
+        ⚙️ Extensive game logic, third-party API calls, event listeners, nested CSS Grid, modals
+      </td>
+      <td align="center">
+        <img alt="ZeldaRPG" src="https://github.com/sammymarks/sammymarks/assets/144173900/c8576b8c-0020-457b-8a08-88f0834bda08">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+
