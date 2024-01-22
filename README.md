@@ -6,9 +6,14 @@
   </a> &nbsp; 
   <a href="https://github.com/sammymarks" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+  </a> &nbsp; 
+  <a href="https://github.com/sammymarks" rel="nofollow noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="15" height="15"alt="gmail"> Contact Me
   </a>
 </p>
 </div>
+
+
 
 
 ## Hi, I'm Sammy. Nice to meet you! 
@@ -41,9 +46,17 @@
 \
 ⚙️ Encrypted user authentication, admin privileges, file compression, file storage (64 bit encoding), geolocation via third-party API, multi-release plan, front-end CRUD, mobile-first design \
 #### Family Bike Build Network - [Full-Stack Repo](https://github.com/sammymarks/Family-Bike-Build-Network)
-ℹ️ Family Bike Build Network is a social site for families who want to schlep their kids on bikes get inspiration for builds and parts to make the journey on any budget. It will feature community builds and user-submitted bikes and parts.
+ℹ️ Family Bike Build Network is a social site for families who want to schlep their kids on bikes get inspiration for builds and parts to make the journey on any budget. It will feature community builds and user-submitted bikes and parts. \
 \
 🖥️ HTML/CSS, Javascript, React (Vite), Mongoose/Mongo, Express.js, Axios \
 \
-⚙️ Front-end CRUD, User Login, social "likes", configuration shopping card \
+⚙️ Front-end CRUD, User Login, part and build inventories, social "likes", build configuration shopping cart \
 
+#### Masterpiece Marketplace - [Full-Stack Repo](https://github.com/sammymarks/MasterpieceMarketplace)
+ℹ️ Group hackathon project with a team of three. Masterpiece marketplace is a site to auction and buy artwork without a middle-man. Where eBay meets Etsy. Features Profile setup, artwork posting, auction creation, and auction participation.\
+\
+🖥️ HTML/CSS, Javascript, React (Vite), Mongo/Mongoose, Express, Node.js, Express.js Axios \
+\
+⚙️ Fully remote planning, front-end CRUD, RegEx search, timers based on UseState and UseEffect \
+
+#### Zelda RPG
