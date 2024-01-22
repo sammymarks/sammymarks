@@ -8,8 +8,7 @@
     <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
   </a> &nbsp; 
   <a href="mailto:sammy.marks@gmail.com" rel="nofollow noreferrer">
-    <img <img width="375" alt="SafeStreetSurveyPreview" src="https://github.com/sammymarks/sammymarks/assets/144173900/b0c46a8d-ab16-427f-8784-088f5b70b803">
-src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="15" height="15"alt="sammy.marks@gmail.com"> Contact Me
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="15" height="15"alt="sammy.marks@gmail.com"> Contact Me
   </a>
 </p>
 </div>
