@@ -8,7 +8,8 @@
     <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
   </a> &nbsp; 
   <a href="mailto:sammy.marks@gmail.com" rel="nofollow noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="15" height="15"alt="sammy.marks@gmail.com"> Contact Me
+    <img <img width="375" alt="SafeStreetSurveyPreview" src="https://github.com/sammymarks/sammymarks/assets/144173900/b0c46a8d-ab16-427f-8784-088f5b70b803">
+src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="15" height="15"alt="sammy.marks@gmail.com"> Contact Me
   </a>
 </p>
 </div>
@@ -39,12 +40,16 @@
 - Unit Testing
 
 ## I am proud of my work on:
+
 #### Safe Streets Survey - [Frontend Repo](https://github.com/sammymarks/SafeStreetsSurvey-Frontend) | [Backend Repo](https://github.com/sammymarks/SafeStreetsSurvey-Backend) | [Deployed](https://safe-streets-survey.netlify.app/)
 ℹ️ Safe Streets Survey is an open-source, Mobile-friendly browser application to help local organizations crowdsource community feedback on local infrastructure issues. Built in partnership with the Chicago 40th Ward, it allows users to securely authenticate, browse projects, and submit tickets with geolocation, image uploads, dropdown selections, and text entry. Project admins can view and download their ticket data. \
 \
 🖥️ HTML/CSS, Javascript, React (Vite), Bootstrap, Mongoose/Mongo, Express.js, Axios, Google Maps API, OAuth/Auth0, Dayjs, Netlify, Heroku\
 \
 ⚙️ Encrypted user authentication, admin privileges, file compression, file storage (64 bit encoding), geolocation via third-party API, multi-release plan, front-end CRUD, mobile-first design \
+
+![Uploading SafeStreetSurveyPreview.png…]()
+
 #### Family Bike Build Network - [Full-Stack Repo](https://github.com/sammymarks/Family-Bike-Build-Network)
 ℹ️ Family Bike Build Network is a social site for families who want to schlep their kids on bikes get inspiration for builds and parts to make the journey on any budget. It will feature community builds and user-submitted bikes and parts. \
 \
