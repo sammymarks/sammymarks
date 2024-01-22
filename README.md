@@ -8,7 +8,7 @@
     <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
   </a> &nbsp; 
   <a href="mailto:sammy.marks@gmail.com" rel="nofollow noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="15" height="15"alt="gmail"> Contact Me
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="15" height="15"alt="sammy.marks@gmail.com"> Contact Me
   </a>
 </p>
 </div>
@@ -59,4 +59,10 @@
 \
 ⚙️ Fully remote planning, front-end CRUD, RegEx search, timers based on UseState and UseEffect \
 
-#### Zelda RPG
+#### Zelda RPG - [Full-Stack Repo](https://github.com/sammymarks/Zelda-RPG)
+
+ℹ️ Turn-based RPG inspired by retro point-and-click games and the Legend of Zelda franchise. Features items, enemies, and a role-reversal story!\
+\
+🖥️ HTML/CSS, JavaScript , Axios \
+\
+⚙️ Extensive game logic, third-party API calls, event listeners, nested CSS Grid, modals \
