@@ -29,6 +29,7 @@
 
 - **Languages**: JavaScript ES6, HTML, CSS, Python, SQL, Mongo, JSON
 - **Databases**: PostgreSQL, MongoDB
+- **Testing**: Mocha, Chai
 - **Packages and Frameworks**: React, Express.js, Node.js, Django, ReactStrap, Axios, OAuth (Auth0), Google Cloud Platform (GCP), Mongoose
 - **Other Tech**: REST API , JSON, MERN stack, Thunderclient, Alteryx, PowerBI, Tableau, Git, Netlify, Heroku
 - **Collaboration and Productivity**: Slack, Jira, Trello, GitHub, Coda, Microsoft Office Suite, Google Workspace Suite, Teams, Salesforce, Figma
@@ -36,7 +37,6 @@
 ## I am currently learning:
 - Redux, Typescript, Tailwind
 - CI/CD Deployment
-- Unit Testing
 
 ## I am proud of my work on:
 
